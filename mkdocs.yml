@@ -1,4 +1,5 @@
 site_name: Sec Arch Program
+site_url: https://pueblas.github.io/security-lab/
 repo_url: https://github.com/pueblas/security-lab
 theme:
   name: material
